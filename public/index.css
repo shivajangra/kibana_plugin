@@ -1,0 +1,18 @@
+.icvControlEditor__panel {
+  z-index: 1;
+  margin-bottom: 16px; }
+
+.icvContainer {
+  width: 100%;
+  margin: 0 4px; }
+  .icvContainer input[type=number]::-webkit-inner-spin-button,
+  .icvContainer input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0; }
+  .icvContainer .input-range__track .input-range__label-container {
+    display: none; }
+  .icvContainer .input-range__label-container {
+    left: 0% !important; }
+
+.icvInputRange__container {
+  min-width: 160px !important; }
